@@ -1,0 +1,17 @@
+Intervjufrågor
+
+- Vilka är arbetarna på Sahlgrenska som kommer i kontakt med PLC:er/larmen? 
+- Hur mycket datorvana har arbetarna? 
+- Hur ser deras ID ut? Namn och efternamn? 
+- Vem har tillgång till vilken information? Har man tillgång till allt eller bara det man specifikt sysslar med?
+- Hur ser rutinerna ut idag? 
+- Vem är det som skickar in versionerna? Görs det med ett enkelt knapptryck?
+- Är det enbart Robin som gör jämförelserna? 
+
+- Om rutinerna är att det enbart är Robins jobb och tidsfördriv att jämföra filerna hade man kunnat göra en uppdatering av rutiner?
+- Arbetarna kan på plats jämföra filerna och uppdaterar felen? Acobia jämför filerna och uppdaterar felen?
+
+- Vad uppdateras av systemet och vad uppdateras av personerna? Uppdateras filerna vid larm? 
+- Vilket UI fungerar? Detta är beroende på vem det är som väljer att jämföra filerna samt datorvana. 
+- Skall det vi utvecklar finnas lokalt eller på molnet?
+
